@@ -1,0 +1,3 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/ajainuary/web3.0-tutorial-client.git
