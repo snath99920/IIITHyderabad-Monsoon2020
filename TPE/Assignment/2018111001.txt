@@ -1,0 +1,15 @@
+
+Hypothesis:
+1. 3D rendition gives a better user experience
+2. The customer would want to know how the clothes fit on them personally
+3. Fitting of clothes could vary depending on the pose of the person
+4. The customer would want to know specifically where they could feel a discomfort
+5. The customer would want to know how the clothes look from all angles, just like in a trial room
+
+Features:
+1. 3D model from a 2D image (Gain creator)
+2. Replicating the customer's face and body structure (At least, body colour, hair colour and face shape) (Gain Creator)
+3. Pose estimation to judge the fit better (Pain Reliever)
+4. Fit indicator - Highlights areas where there could be a misfit (Pain Reliever)
+5. 360 degree view of the body (Gain creator)
+

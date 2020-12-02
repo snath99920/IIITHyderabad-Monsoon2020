@@ -1,0 +1,41 @@
+What is your largest annoyance when buying clothes online?
+1) Clothes take time to arrive
+2) Not enough filtering options to find the clothes I want
+3) Having to return clothes because they dont fit me
+4) Not able to test how clothes look on me before I buy them
+5) Other
+
+From the option you selected above, how reluctant does it make you to buy clothes online?
+1) A lot
+2) Somewhat
+3) A little
+4) Doesn't bother me
+
+How many days does it usually take for the clothes you bought to arrive?
+1) 1-2 days
+2) 3-5 days
+3) Longer than 5 days
+
+On a scale of 1-5 how choosy are you about clothes? (1 - Not choosy at all, 5 - Very choosy)
+1) Quite
+2) Somewhat
+3) Not much
+
+How often do you have problems with clothes not being the correct size for you?
+1) Almost every order
+2) Once in a few orders
+3) Almost never
+
+How often do you feel like the clothes don't look as good on you as you thought when you bought them?
+1) Almost every order
+2) Once in a few orders
+3) Almost never
+
+How often do you return clothes if you don't like them or if they don't fit you very well?
+1) Almost every time
+2) Sometimes
+3) Only if it is too bad
+
+Do you use your body measurements (if you know them) to select the right size for your clothes?
+1) Yes
+2) No

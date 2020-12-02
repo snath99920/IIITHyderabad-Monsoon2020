@@ -1,0 +1,24 @@
+Goal: 
+
+Questions to ask:
+
+1. How often do you buy clothes online?
+	a) Very often (Every 1 month)
+	b) Often (Every 1-3 months)
+	c) Sometimes (Once in 4-6 months) 
+	d) Rarely (Once in 6-12 months)
+	e) Very rarely (Once in a few years)
+
+2. If you are not a regular buyer, any particular reason for it? (Multiple answers allowed)
+	a) Lack of quality products
+	b) Apprehensive about whether the size is correct?
+	c) Apprehensive about how they would look *on you*?
+
+3. Any other reason why you don't buy online regularly? (Text question, optional)
+
+4. If you could model how the cloth would look *on you*, would this increase your chances of buying clothes online?
+	a) Yes
+	b) Maybe
+	c) No
+
+5. Other improvements you would like to see in the e-commerce fashion indutry (text, optional)
